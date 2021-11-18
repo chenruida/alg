@@ -1,5 +1,7 @@
 package sort;
 
+import GlobalClass;
+
 public class Quick {
     private static int getIndex(int[] array, int low, int high) {
         int pivot = array[low];

@@ -1,5 +1,7 @@
 package sort;
 
+import GlobalClass;
+
 /**
  * 选择排序，找到当前数后面比它小的数，交互位置。
  */
